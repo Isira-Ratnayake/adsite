@@ -1,0 +1,11 @@
+.ad-img-size{
+    max-width: 100%;
+    min-width: 100%;
+  }
+  .created-date{
+    font-weight: normal;
+  }
+  .tel-style{
+    text-decoration: none;
+    color: #212529;
+  }

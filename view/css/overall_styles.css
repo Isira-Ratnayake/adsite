@@ -1,0 +1,18 @@
+.main-body{
+    min-height: 100vh;
+}
+.h-rule-styles{
+    width: 90vw;
+}
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+.form-search-width {
+    width: 30vw;
+  }
+  
+@media (max-width: 992px) {
+    .form-search-width {
+        width: auto;
+    }
+}

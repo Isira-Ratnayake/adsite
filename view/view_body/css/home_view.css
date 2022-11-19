@@ -1,0 +1,44 @@
+.ad-img-size{
+  max-height: 200px;
+  max-width: 100%;
+}
+.tel-link{
+  color: #6c757d;
+  text-decoration: none;
+  font-weight: 500;
+}
+.card-text-custom{
+  height: 100px;
+  overflow-y:hidden;
+}
+
+.ribbon-height {
+    min-height: 100vh;
+}
+
+.col-bg-color {
+  background-color: #f8f9fa;
+}
+
+@media (max-width: 992px) {
+  .ribbon-height {
+    min-height: auto;
+  }
+  .col-bg-color {
+    background-color: white;
+  }
+}
+
+.list-width {
+  width: 100%;
+}
+
+.button-bg-img {
+  background-image: url(../../../images/cat_logo.svg);
+  background-repeat: no-repeat;
+  background-size: 1.5rem;
+  background-position: center;
+}
+.hide-link {
+  opacity: 0;
+}
